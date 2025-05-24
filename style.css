@@ -1,0 +1,21 @@
+.texto_informativo_menor {
+    font-size: 13px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.texto_informativo_maior {
+    font-size: 1rem;
+}
+
+.icone_facilidades {
+    font-size: 3.5rem;
+}
+
+.verde_limao {
+    color: #daff01;
+}
+
+.fundo_lilas {
+    background-color: #9353ff !important;
+}
